@@ -1,13 +1,13 @@
 # Hey there 👋, I'm Shaeel.
 <p>
-  <a href="https://shaeel31.com">Portfolio</a> •
+  <a target = "_blank" href="https://shaeel31.com">Portfolio</a> •
   <!-- <a href="http://resume.mhd3v.com">Resume</a> • -->
-  <a href="https://www.linkedin.com/in/shaeel31/">LinkedIn</a> •
+  <a target = "_blank" href="https://www.linkedin.com/in/shaeel31/">LinkedIn</a> •
   <!-- <a href="https://www.gitlab.com/mhd3v">Gitlab</a> • -->
-  <a href="https://twitter.com/shaeel31">Twitter</a>
+  <a target = "_blank" href="https://twitter.com/shaeel31">Twitter</a>
 </p>
 
-I am a Software Engineer currrently working as a Backend Engineer @ <a href="https://daoproptech.com/">DaoProptech</a>, where I help transform the Real Estate Eco System of Pakistan. 
+I am a Software Engineer currrently working as a Backend Engineer @<a href="https://daoproptech.com/">DaoProptech</a>, where I help transform the Real Estate Eco System of Pakistan. 
 
 <!-- ## My stats on Github
  <div>
