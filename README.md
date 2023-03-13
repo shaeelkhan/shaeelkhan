@@ -1,9 +1,7 @@
 # Hey there 👋, I'm Shaeel.
 <p>
   <a target = "_blank" href="https://shaeel31.com">Portfolio</a> •
-  <!-- <a href="http://resume.mhd3v.com">Resume</a> • -->
   <a target = "_blank" href="https://www.linkedin.com/in/shaeel31/">LinkedIn</a> •
-  <!-- <a href="https://www.gitlab.com/mhd3v">Gitlab</a> • -->
   <a target = "_blank" href="https://twitter.com/shaeel31">Twitter</a>
 </p>
 
