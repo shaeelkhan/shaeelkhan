@@ -31,6 +31,9 @@ I am a Software Engineer currrently working as a Backend Engineer @<a href="http
 ## 🗄 Databases
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">&nbsp;&nbsp;
+<img  align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img  align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+          
 
 ## 🧰 Tools
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp;&nbsp;
