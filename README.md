@@ -31,7 +31,7 @@ I am a Software Engineer currrently working as a Full Stack Engineer @<a href="h
 ## 🗄 Databases
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">&nbsp;&nbsp;
-<img  align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img  align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&nbsp;&nbsp;
 <img  align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
           
 
@@ -45,6 +45,8 @@ I am a Software Engineer currrently working as a Full Stack Engineer @<a href="h
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-plain.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+          
 
 ## 🖥 Operating Systems
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />&nbsp;&nbsp;
