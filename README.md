@@ -5,7 +5,7 @@
   <a target = "_blank" href="https://twitter.com/shaeel31">Twitter</a>
 </p>
 
-I am a Software Engineer currrently working as a Backend Engineer @<a href="https://daoproptech.com/">DaoProptech</a>, where I help transform the Real Estate Eco System of Pakistan. 
+I am a Software Engineer currrently working as a Full Stack Engineer @<a href="https://daoproptech.com/">DaoProptech</a>, where I help transform the Real Estate Eco System of Pakistan. 
 
 <!-- ## My stats on Github
  <div>
