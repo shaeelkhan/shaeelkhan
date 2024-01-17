@@ -1,8 +1,8 @@
 # Hey there 👋, I'm Shaeel.
 <p>
-  <a target = "_blank" href="https://shaeel31.com">Portfolio</a> •
-  <a target = "_blank" href="https://www.linkedin.com/in/shaeel31/">LinkedIn</a> •
-  <a target = "_blank" href="https://twitter.com/shaeel31">Twitter</a>
+  <a target = "_blank" href="https://shaeelkhan.com">Portfolio</a> •
+  <a target = "_blank" href="https://www.linkedin.com/in/shaeelkhan/">LinkedIn</a> •
+  <a target = "_blank" href="https://twitter.com/_shaeelkhan">Twitter</a>
 </p>
 
 I am a Software Engineer currrently working as a Full Stack Engineer @<a href="https://daoproptech.com/">DaoProptech</a>, where we contribute to the transformation of Pakistan's Real Estate Eco System.
