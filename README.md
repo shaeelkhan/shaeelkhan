@@ -5,7 +5,7 @@
   <a target = "_blank" href="https://twitter.com/_shaeelkhan">Twitter</a>
 </p>
 
-I am a Software Engineer currrently working as a Full Stack Engineer @<a href="https://dplit.com">DPL</a>.
+I am a Software Engineer currrently working as a Full Stack Engineer @<a href="https://salla.com/">Salla</a>.
 
 <!-- ## My stats on Github
  <div>
